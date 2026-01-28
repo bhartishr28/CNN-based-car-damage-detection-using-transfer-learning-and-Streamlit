@@ -1,1 +1,3 @@
-
+## Dataset Availability
+Due to **confidentiality and privacy constraints**, the dataset used for training and evaluation cannot be publicly shared.  
+However, the complete **data preprocessing pipeline, model architecture, training strategy, and evaluation methodology** are provided to ensure reproducibility.
