@@ -1,1 +1,9 @@
-
+python>=3.8
+streamlit
+torch
+torchvision
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
