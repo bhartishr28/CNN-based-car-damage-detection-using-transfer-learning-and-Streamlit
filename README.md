@@ -67,7 +67,30 @@ An interactive **Streamlit web application** is built to allow users to upload c
 - Real-time damage classification
 - Simple and interactive UI
 
-### Run the app locally:
+---
+
+## 🔧 Requirements
+
+To run this project locally, ensure the following requirements are met:
+
+### Software Requirements
+- Python 3.8 or higher
+- Git
+- Streamlit
+
+### Python Libraries
+- PyTorch
+- Torchvision
+- NumPy
+- Pandas
+- Pillow
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+Install all dependencies using:
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+
+### Run the app locally:
+streamlit run ./app.py
